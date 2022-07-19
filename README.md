@@ -1,6 +1,6 @@
 **Adali E. Stevenson High School | Class of 2025** <br>
 ***
-- I’m @aaggupta07, and am currently learning data structures and algorithms, along with C++.
+- I’m [@aaggupta07](https://github.com/aaggupta07), and am currently learning data structures and algorithms, along with C++.
 - I frequently participate in competitive programming contests.
 - I'm also working on a Machine Learning project with Python.
 
