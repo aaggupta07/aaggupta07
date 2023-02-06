@@ -1,5 +1,4 @@
-**Aditya Gupta** <br>
-***
+## Aditya Gupta
 - I’m [@aaggupta07](https://github.com/aaggupta07), part of the Class of 2025 at AESHS.
 - I frequently participate in competitive programming contests, most notably the USA Computing Olympiad.
 - I'm also working on various machine and deep learning projects with Python.
