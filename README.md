@@ -1,7 +1,7 @@
 ## Aditya Gupta
-- I’m [@aaggupta07](https://github.com/aaggupta07), part of the Class of 2025 at Adlai E. Stevenson High School.
-- I frequently participate in competitive programming contests, most notably the USA Computing Olympiad.
-- I'm also working on various machine and deep learning projects with Python.
+- I’m [@aaggupta07](https://github.com/aaggupta07), studying Computer Science at the University of Illinois.
+- I participate in competitive programming contests.
+- I'm also working on various projects, like applications related to deep learning with PyTorch.
 
 <!---
 aaggupta07/aaggupta07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
